@@ -51,7 +51,5 @@ and in  randomly generatorated colors
 
 
 
-Owl mask image
 
-<img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/slack-imgs%20edit.jpg" width="300">
 
