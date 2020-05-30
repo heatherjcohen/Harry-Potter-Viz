@@ -3,7 +3,7 @@
 
 Sankey of Harry Potter and the Philosopher's Stone
 
-<img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/HPtroll.png" width="300">
+<img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/HPtroll.png" >
 
 Book One in Grey Scale
 
@@ -15,7 +15,7 @@ in Rose Grey color
 and
 <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz4750.png" width="300">
 
-in random color generator and 
+in random color generator and with title
 
 <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz4513.png" width="300">
 
