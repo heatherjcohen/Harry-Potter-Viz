@@ -13,7 +13,7 @@ Each Harry Potter book as a wordcloud in the shape of a concept from the book
   
   Philosopher's Stone
   
-  <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz1156.png?raw=true" width="2000">
+  <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz4619.png?raw=true" width="2000">
   
   
   Chamber of Secrets
@@ -24,11 +24,15 @@ Each Harry Potter book as a wordcloud in the shape of a concept from the book
    
    <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz5612.png" width="2000">  
    
-   Prisoner of Azkaban with randomly generated colors
+   Prisoner of Azkaban stag
+   
+   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz3720.png" width="2000">
+   
+   Prisoner of Azkaban Dementor with randomly generated colors
     
    <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz415.png" width="2000">
    
-   Prisoner of Azkaban with alternate font
+   Prisoner of Azkaban Dementor with alternate font
    
    <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz3645.png?raw=true" width="2000">
    
@@ -38,13 +42,25 @@ Each Harry Potter book as a wordcloud in the shape of a concept from the book
    
    Order of the Phoenix
     
-   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz5917.png?raw=true" width="2000">
+   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz4257.png?raw=true" width="2000">
    
-   
+   Half Blood Prince
   
-   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz2550.png?raw=true" width="2000">
-   <img src="" width="">
-   <img src="" width="">
+   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz2358.png?raw=true" width="2000">
+   
+   
+  Deathly Hallows
+  
+   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz4418.png?raw=true" width="2000">
+   
+   
+   Deathly Hallows as Death
+  
+   <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/viz1528.png?raw=true" width="2000">
+   
+   
+   
+
 
 
 
