@@ -5,6 +5,15 @@ Sankey of Harry Potter and the Philosopher's Stone
 
 <img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/HPtroll.png" >
 
+Sentiment Analysis of Harry Potter and the Philosopher's Stone
+
+by chapter
+
+<img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/HarryPotterBookOne.png">
+
+by sentence and chapter
+
+<img src="https://github.com/heatherjcohen/Harry-Potter-Viz/blob/master/HarryPotterBookOne_Sentences_large.png">
 
 Each Harry Potter book as a wordcloud in the shape of a concept from the book
 
